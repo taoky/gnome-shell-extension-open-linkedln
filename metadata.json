@@ -1,0 +1,8 @@
+{
+  "name": "Open Linkedln with Shortcut",
+  "description": "Open Linkedln with Meta+Ctrl+Alt+Shift+L",
+  "uuid": "open-linkedln@taoky.moe",
+  "shell-version": [
+    "45"
+  ]
+}
