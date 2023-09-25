@@ -36,7 +36,7 @@ function handler() {
     });
 }
 
-export default class PlainExampleExtension extends Extension {
+export default class MyExtension extends Extension {
     enable() {
         let settings = this.getSettings('org.gnome.shell.extensions.open-linkedln');
         Main.wm.addKeybinding('open-linkedln-shortcut', settings, Meta.KeyBindingFlags.NONE,
