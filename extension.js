@@ -45,6 +45,6 @@ export default class PlainExampleExtension extends Extension {
     }
 
     disable() {
-        Main.wm.removeKeybinding('open-linkedln');
+        Main.wm.removeKeybinding('open-linkedln-shortcut');
     }
 }
